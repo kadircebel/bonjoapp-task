@@ -57,10 +57,10 @@ All generated visualizations are exported to the `visuals` directory. Make sure 
 ![User Visit Categories](app/visuals/visualize-data.png)
 
 #### Clustered Users
-![Clustered Users](app/visuals/clustered-users.png)
+![Clustered Users](app/visuals/clusters_heatmap.png)
 
 #### Time of Day Categories
-![Time of Day Categories](app/visuals/time-of-day-categories.png)
+![Time of Day Categories](app/visuals/time_of_day_categories.png)
 
 ## License
 
