@@ -54,13 +54,13 @@ All generated visualizations are exported to the `visuals` directory. Make sure 
 ### Example Visualizations
 
 #### User Visit Categories
-![User Visit Categories](visuals/visualize-data.png)
+![User Visit Categories](app/visuals/visualize-data.png)
 
 #### Clustered Users
-![Clustered Users](visuals/clustered-users.png)
+![Clustered Users](app/visuals/clustered-users.png)
 
 #### Time of Day Categories
-![Time of Day Categories](visuals/time-of-day-categories.png)
+![Time of Day Categories](app/visuals/time-of-day-categories.png)
 
 ## License
 
